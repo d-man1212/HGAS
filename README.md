@@ -62,7 +62,7 @@ This system detects and recognizes user-defined hand gestures captured via webca
 1. Ensure your camera is connected and accessible.
 2. Upon running **main.py**, the application opens with a welcome screen offering options to register, login, or quit.
 3. **Registration:** Users can register by inputting a username and performing a sequence of hand gestures.
-4. **Login:** Existing users can login by providing their username and performing the same gestures used during registration.**
+4. **Login:** Existing users can login by providing their username and performing the same gestures used during registration.
 5. Successful authentication leads to a success screen displaying the username.
 
 ## Contributors
