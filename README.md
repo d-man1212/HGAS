@@ -1,4 +1,4 @@
-# Hand Gesture Recognition System
+# Hand Gesture Authentication System
 
 This system utilizes OpenCV and TensorFlow/Keras to enable real-time detection and recognition of hand gestures for authentication purposes. The system integrates a machine learning model trained using Teachable Machine for gesture classification and authentication. It achieves an approximate success rate of 80% in authenticating users based on their gestures.
 Challenges include distinguishing between similar gestures, varying camera angles affecting recognition accuracy and environment variability.
